@@ -9,9 +9,6 @@
 
 1. ¿Cuáles son los cuatro pilares de la programación Orientada a Objetos?
    - a) Encapsulamiento, herencia, polimorfismo, abstracción.
-   - b) Variables, funciones, ciclos, condicionales.
-   - c) Clases, objetos, atributos, métodos.
-   - d) Ninguna de las anteriores.
 
 2. ¿Por qué se le llama programación Orientada a Objetos?
    - a) Porque se enfoca en programar objetos físicos.
